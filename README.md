@@ -1,0 +1,1 @@
+# This program is designed to handle matrices, their properties, decomposition, and matrix operation. We will utilize Numpy in this program to conduct these functions. To run, open this with Python and run from your chosen workspace. I use Visual studio to compile the code.
